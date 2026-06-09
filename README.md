@@ -35,6 +35,9 @@ Python 3
 ***********SAMPLE OUTPUT:***********
 
 
+<img width="817" height="437" alt="Image" src="https://github.com/user-attachments/assets/50b759e5-14af-43e7-87ba-b97f13c58bb6" />
+
+
 *********LEARNING OUTCOMRS:********** 
 
 Using dictionaries for data lookup 
